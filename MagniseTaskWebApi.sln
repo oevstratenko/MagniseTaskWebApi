@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagniseTaskWebApi", "MagniseTaskWebApi\MagniseTaskWebApi.csproj", "{E2052E50-88F3-41E6-ADF3-1F932FE243C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagniseTaskBC", "MagniseTaskBC\MagniseTaskBC.csproj", "{5E406E45-343C-4396-929F-39015E5E4C94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagniseTaskBE", "MagniseTaskBE\MagniseTaskBE.csproj", "{3362D49A-222A-47C9-991B-1662C4BD2566}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinApiClient", "CoinApiClient\CoinApiClient.csproj", "{9DE5A2DC-B6BE-45B7-834B-4526C3A0B4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagniseTaskDAC", "MagniseTaskDAC\MagniseTaskDAC.csproj", "{F3FC619A-ABCC-426C-904A-BB012B183A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2052E50-88F3-41E6-ADF3-1F932FE243C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2052E50-88F3-41E6-ADF3-1F932FE243C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2052E50-88F3-41E6-ADF3-1F932FE243C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2052E50-88F3-41E6-ADF3-1F932FE243C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E406E45-343C-4396-929F-39015E5E4C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E406E45-343C-4396-929F-39015E5E4C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E406E45-343C-4396-929F-39015E5E4C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E406E45-343C-4396-929F-39015E5E4C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3362D49A-222A-47C9-991B-1662C4BD2566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3362D49A-222A-47C9-991B-1662C4BD2566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3362D49A-222A-47C9-991B-1662C4BD2566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3362D49A-222A-47C9-991B-1662C4BD2566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE5A2DC-B6BE-45B7-834B-4526C3A0B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE5A2DC-B6BE-45B7-834B-4526C3A0B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE5A2DC-B6BE-45B7-834B-4526C3A0B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE5A2DC-B6BE-45B7-834B-4526C3A0B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FC619A-ABCC-426C-904A-BB012B183A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FC619A-ABCC-426C-904A-BB012B183A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FC619A-ABCC-426C-904A-BB012B183A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FC619A-ABCC-426C-904A-BB012B183A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C85934-8869-43A4-871B-5379ADF8162D}
+	EndGlobalSection
+EndGlobal
